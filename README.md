@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @09cactusboy
 - 👀 I’m interested in websyte making
 - 🌱 I’m currently learning html/css
-- 📫 to reach mw email me on 09cactusboy.cactus.bg @mail.bg 
+- 📫 to reach me email me on 09cactusboy.cactus.bg @mail.bg 
 
 
 <!---
